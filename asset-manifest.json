@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MStadtler21.github.io/Employee-Directory-React/static/css/main.5f361e03.chunk.css",
+    "main.js": "/MStadtler21.github.io/Employee-Directory-React/static/js/main.049adc1b.chunk.js",
+    "main.js.map": "/MStadtler21.github.io/Employee-Directory-React/static/js/main.049adc1b.chunk.js.map",
+    "runtime-main.js": "/MStadtler21.github.io/Employee-Directory-React/static/js/runtime-main.64679d76.js",
+    "runtime-main.js.map": "/MStadtler21.github.io/Employee-Directory-React/static/js/runtime-main.64679d76.js.map",
+    "static/js/2.6e8f5727.chunk.js": "/MStadtler21.github.io/Employee-Directory-React/static/js/2.6e8f5727.chunk.js",
+    "static/js/2.6e8f5727.chunk.js.map": "/MStadtler21.github.io/Employee-Directory-React/static/js/2.6e8f5727.chunk.js.map",
+    "index.html": "/MStadtler21.github.io/Employee-Directory-React/index.html",
+    "precache-manifest.4c3f16189fe3397cedab239b7d091c45.js": "/MStadtler21.github.io/Employee-Directory-React/precache-manifest.4c3f16189fe3397cedab239b7d091c45.js",
+    "service-worker.js": "/MStadtler21.github.io/Employee-Directory-React/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/MStadtler21.github.io/Employee-Directory-React/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6e8f5727.chunk.js.LICENSE.txt": "/MStadtler21.github.io/Employee-Directory-React/static/js/2.6e8f5727.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/MStadtler21.github.io/Employee-Directory-React/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64679d76.js",
+    "static/js/2.6e8f5727.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.049adc1b.chunk.js"
+  ]
+}
